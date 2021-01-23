@@ -1,0 +1,49 @@
+{
+  "name": "passport-js-examples",
+  "version": "1.0.0",
+  "description": "Passport JS paketinin örnek kullanım kodlarına buradan ulaşabilirsiniz.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jscriptify/passport-js-examples.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "fb",
+    "login",
+    "google",
+    "login",
+    "login",
+    "api",
+    "facebook",
+    "node",
+    "js",
+    "oauth",
+    "nedir",
+    "oauth2",
+    "passport",
+    "js",
+    "twitter",
+    "login"
+  ],
+  "author": "Javascriptify Organization",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jscriptify/passport-js-examples/issues"
+  },
+  "homepage": "https://github.com/jscriptify/passport-js-examples#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-ensure-login": "^0.1.1",
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
